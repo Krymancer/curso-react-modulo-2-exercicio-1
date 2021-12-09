@@ -17,4 +17,4 @@ números inteiros.
 
 # Deploy
 
-Acesse o deploy [aqui](http://krymancer.me/curso-react-modulo-1-exercicio-1)
+Acesse o deploy [aqui](http://krymancer.me/curso-react-modulo-1-exercicio-1/)
